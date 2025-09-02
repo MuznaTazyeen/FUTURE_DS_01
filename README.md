@@ -11,16 +11,23 @@ An interactive dashboard for e-commerce sales data. The goal was to help busines
 - Built a visually appealing Power BI dashboard with filters and charts.
 
 # Skills Gained
-- 💡 Data cleaning & transformation
-- 📊 PowerBI
-- 📈 DAX (Data Analysis Expressions) for creating KPIs
-- 🛒 Business storytelling with visuals
-- 📥 Importing & handling datasets
+💡 Data cleaning & transformation
+
+📊 PowerBI
+
+📈 DAX (Data Analysis Expressions) for creating KPIs
+
+🛒 Business storytelling with visuals
+
+📥 Importing & handling datasets
 
 # Walkthrough of Visuals
 The dashboard includes:
+
 KPI Cards → Total Sales, Total Profit, etc
+
 Bar Charts → best-selling products & categories
+
 Filters/Slicers → Region filter for drill-down analysis
 
 # Impact
